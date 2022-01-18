@@ -7,15 +7,19 @@ A implementação foi realizada utilizando PostgresSQL e Python. Bibliotecas aux
 
 No mais, é importante ressaltar que foram utilizadas bases já existentes. Assim, as restrições de modelagem são impostas pelas mesmas – isso ficará evidente na transição de modelo ER para Lógico.
 
-![Modelo Lógico](modeloLogico.png "Modelo Lógico")
+## Modelo Lógico
+![Modelo Lógico](/assets/modeloLogico.png "Modelo Lógico")
 
-![Interface](interface.png "Interface")
+# Interface
+![Interface](/assets/interface.png "Interface")
 
-![Exemplo](top10.png "Exemplo de Query: top10")
+# Exemplo de Query
+![Exemplo](/assets/top10.png "Exemplo de Query: top10")
 
-![Indicadores MACRO](metrics.png "Indicadores Macro")
+# Gráficos de indicadores
+![Indicadores MACRO](/assets/metrics.png "Indicadores Macro")
 
-![Indicador MICRO](moveMean.png "Indicador Micro")
+![Indicador MICRO](/assets/moveMean.png "Indicador Micro")
 
 
 ## Vídeo explicativo
